@@ -1,0 +1,235 @@
+vo-dbg: dyn walk OK ndyn=116
+orbis-hle: Kx-h-nWQJ8A -> sceGnmSetCsShaderWithModifier (stub_ok)
+orbis-hle: ihxrbsoSKWc -> sceGnmBeginWorkload (stub_ok)
+orbis-hle: X9Omw9dwv5M -> sceGnmSetEmbeddedPsShader (stub_ok)
+orbis-hle: ffrNQOshows -> sceGnmComputeWaitOnAddress (stub_ok)
+orbis-hle: EJapNl2+pgU -> sceGnmComputeWaitSemaphore (stub_ok)
+orbis-hle: 5udAm+6boVg -> sceGnmCreateWorkloadStream (stub_ok)
+orbis-hle: FUHG8sQ3R58 -> sceGnmSetEsShader (stub_ok)
+orbis-hle: jtkqXpAOY6w -> sceGnmSetGsRingSizes (stub_ok)
+orbis-hle: VJNjFtqiF5w -> sceGnmSetHsShader (stub_ok)
+orbis-hle: q-qhDxP67Hg -> sceGnmSetResourceRegistrationUserMemory (stub_ok)
+orbis-hle: K3BKBBYKUSE -> sceGnmSetResourceUserData (stub_ok)
+orbis-hle: cFCp0NX8wf0 -> sceGnmSetVgtControl (stub_ok)
+orbis-hle: XiyzNZ9J4nQ -> sceGnmSetWaveLimitMultipliers (stub_ok)
+orbis-hle: Ga6r7H6Y0RI -> sceGnmSubmitAndFlipCommandBuffersForWorkload (stub_ok)
+orbis-hle: UJwNuMBcUAk -> sceGnmSetGsShader (stub_ok)
+orbis-hle: ArSg-TGinhk -> sceGnmUnmapComputeQueue (stub_ok)
+orbis-hle: UtObDRQiGbs -> sceGnmDestroyWorkloadStream (stub_ok)
+orbis-hle: byXlqupd8cE -> sceGnmDingDongForWorkload (stub_ok)
+orbis-hle: Z43vKp5k7r0 -> sceGnmDispatchIndirect (stub_ok)
+orbis-hle: wED4ZXCFJT0 -> sceGnmDispatchIndirectOnMec (stub_ok)
+orbis-hle: nF6bFRUBRAU -> sceGnmDispatchInitDefaultHardwareState (stub_ok)
+orbis-hle: ED9-Fjr8Ta4 -> sceGnmDrawIndexIndirect (stub_ok)
+orbis-hle: thbPcG7E7qk -> sceGnmDrawIndexIndirectCountMulti (stub_ok)
+orbis-hle: jHdPvIzlpKc -> sceGnmDrawIndexMultiInstanced (stub_ok)
+orbis-hle: oYM+YzfCm2Y -> sceGnmDrawIndexOffset (stub_ok)
+orbis-hle: 4v+otIIdjqg -> sceGnmDrawIndirect (stub_ok)
+orbis-hle: cUCo8OvArrw -> sceGnmDrawIndirectCountMulti (stub_ok)
+orbis-hle: yb2cRhagD1I -> sceGnmDrawInitDefaultHardwareState350 (stub_ok)
+orbis-hle: im2ZuItabu4 -> sceGnmDrawInitToDefaultContextState400 (stub_ok)
+orbis-hle: stDSYW2SBVM -> sceGnmDrawOpaqueAuto (stub_ok)
+orbis-hle: TLV4mswiZ4A -> sceGnmDriverCaptureInProgress (stub_ok)
+orbis-hle: yhFCnaz5daw -> sceGnmUnregisterAllResourcesForOwner (stub_ok)
+orbis-hle: fhKwCVVj9nk -> sceGnmUnregisterOwnerAndResources (stub_ok)
+orbis-hle: k8EXkhIP+lM -> sceGnmUnregisterResource (stub_ok)
+orbis-hle: nLM2i2+65hA -> sceGnmUpdateGsShader (stub_ok)
+orbis-hle: GNlx+y7xPdE -> sceGnmUpdateHsShader (stub_ok)
+orbis-hle: mLVL7N7BVBg -> sceGnmUpdatePsShader350 (stub_ok)
+orbis-hle: V31V01UiScY -> sceGnmUpdateVsShader (stub_ok)
+orbis-hle: R6z1xM3pW-w -> sceGnmDriverTraceInProgress (stub_ok)
+orbis-hle: d88anrgNoKY -> sceGnmDriverTriggerCapture (stub_ok)
+orbis-hle: Fa3x75OOLRA -> sceGnmEndWorkload (stub_ok)
+orbis-hle: 4Mv9OXypBG8 -> sceGnmFindResourcesPublic (stub_ok)
+orbis-hle: SXw4dZEkgpA -> sceGnmValidateDisableDiagnostics (stub_ok)
+orbis-hle: BgM3t3LvcNk -> sceGnmValidateDisableDiagnostics2 (stub_ok)
+orbis-hle: qGP74T5OWJc -> sceGnmValidateDispatchCommandBuffers (stub_ok)
+orbis-hle: hsZPf1lON7E -> sceGnmValidateDrawCommandBuffers (stub_ok)
+orbis-hle: RX7XCNSaL6I -> sceGnmValidateGetDiagnosticInfo (stub_ok)
+orbis-hle: UoYY0DWMC0U -> sceGnmGetEqEventType (stub_ok)
+orbis-hle: H7-fgvEutM0 -> sceGnmGetEqTimeStamp (stub_ok)
+orbis-hle: oL4hGI1PMpw -> sceGnmGetGpuBlockStatus (stub_ok)
+orbis-hle: tZCSL5ulnB4 -> sceGnmGetGpuInfoStatus (stub_ok)
+orbis-hle: iFirFzgYsvw -> sceGnmGetLastWaitedAddress (stub_ok)
+orbis-hle: KnldROUkWJY -> sceGnmGetNumTcaUnits (stub_ok)
+orbis-hle: FFVZcCu3zWU -> sceGnmGetOffChipTessellationBufferSize (stub_ok)
+orbis-hle: QJjPjlmPAL0 -> sceGnmGetOwnerName (stub_ok)
+orbis-hle: dewXw5roLs0 -> sceGnmGetPhysicalCounterFromVirtualized (stub_ok)
+orbis-hle: fzJdEihTFV4 -> sceGnmGetProtectionFaultTimeStamp (stub_ok)
+orbis-hle: 4PKnYXOhcx4 -> sceGnmGetResourceBaseAddressAndSizeInBytes (stub_ok)
+orbis-hle: O0S96YnD04U -> sceGnmGetResourceName (stub_ok)
+orbis-hle: UBv7FkVfzcQ -> sceGnmGetResourceShaderGuid (stub_ok)
+orbis-hle: bdqdvIkLPIU -> sceGnmGetResourceType (stub_ok)
+orbis-hle: UoBuWAhKk7U -> sceGnmGetResourceUserData (stub_ok)
+orbis-hle: nEyFbYUloIM -> sceGnmGetShaderProgramBaseAddress (stub_ok)
+orbis-hle: k7iGTvDQPLQ -> sceGnmGetShaderStatus (stub_ok)
+orbis-hle: ln33zjBrfjk -> sceGnmGetTheTessellationFactorRingBufferBaseAddress (stub_ok)
+orbis-hle: 5SHGNwLXBV4 -> sceGnmValidateGetDiagnostics (stub_ok)
+orbis-hle: HzMN7ANqYEc -> sceGnmValidateGetVersion (stub_ok)
+orbis-hle: rTIV11nMQuM -> sceGnmValidateOnSubmitEnabled (stub_ok)
+orbis-hle: NfvOrNzy6sk -> sceGnmInsertDingDongMarker (stub_ok)
+orbis-hle: 7qZVNgEu+SY -> sceGnmInsertPopMarker (stub_ok)
+orbis-hle: aPIZJTXC+cU -> sceGnmInsertPushColorMarker (stub_ok)
+orbis-hle: W1Etj-jlW7Y -> sceGnmInsertPushMarker (stub_ok)
+orbis-hle: aj3L-iaFmyk -> sceGnmInsertSetColorMarker (stub_ok)
+orbis-hle: jiItzS6+22g -> sceGnmInsertSetMarker (stub_ok)
+orbis-hle: 1qXLHIpROPE -> sceGnmInsertWaitFlipDone (stub_ok)
+orbis-hle: MBMa6EFu4Ko -> sceGnmValidateResetState (stub_ok)
+orbis-hle: jg33rEKLfVs -> sceGnmIsUserPaEnabled (stub_ok)
+orbis-hle: 26PM5Mzl8zc -> sceGnmLogicalCuIndexToPhysicalCuIndex (stub_ok)
+orbis-hle: RU74kek-N0c -> sceGnmLogicalCuMaskToPhysicalCuMask (stub_ok)
+orbis-hle: Kl0Z3LH07QI -> sceGnmLogicalTcaUnitToPhysical (stub_ok)
+orbis-hle: A+uGq+3KFtQ -> sceGnmMapComputeQueueWithPriority (stub_ok)
+orbis-hle: Q7t4VEYLafI -> sceGnmValidationRegisterMemoryCheckCallback (stub_ok)
+orbis-hle: u9YKpRRHe-M -> sceRazorCaptureImmediate (stub_ok)
+orbis-hle: f33OrruQYbM -> sceRazorIsLoaded (stub_ok)
+orbis-hle: 6IMbpR7nTzA -> sceGnmQueryResourceRegistrationUserMemoryRequirements (stub_ok)
+orbis-hle: 9Mv61HaMhfA -> sceGnmRegisterGdsResource (stub_ok)
+orbis-hle: ZFqKFl23aMc -> sceGnmRegisterOwner (stub_ok)
+orbis-hle: nvEwfYAImTs -> sceGnmRegisterResource (stub_ok)
+orbis-hle: gObODli-OH8 -> sceGnmRequestFlipAndSubmitDone (stub_ok)
+orbis-hle: 6YRHhh5mHCs -> sceGnmRequestFlipAndSubmitDoneForWorkload (stub_ok)
+orbis-hle: f85orjx7qts -> sceGnmRequestMipStatsReportAndReset (stub_ok)
+orbis-hle: MYRtYhojKdA -> sceGnmResetVgtControl (stub_ok)
+orbis-hle: E6ao34wPw+U -> stat (stub_ok)
+orbis-hle: 9vA2aW+CHuA -> sceNetInetNtop (stub_ok)
+orbis-hle: 8Kcp5d-q1Uo -> sceNetInetPton (stub_ok)
+orbis-hle: eF8yRCC6W64 -> sceNgs2GeomApply (stub_ok)
+orbis-hle: 1WsleK-MTkE -> sceNgs2GeomCalcListener (stub_ok)
+orbis-hle: 7Lcfo8SmpsU -> sceNgs2GeomResetListenerParam (stub_ok)
+orbis-hle: 0lbbayqDNoE -> sceNgs2GeomResetSourceParam (stub_ok)
+orbis-hle: cLV4aiT9JpA -> sceNgs2RackCreate (stub_ok)
+orbis-hle: lCqD7oycmIM -> sceNgs2RackDestroy (stub_ok)
+orbis-hle: MwmHz8pAdAo -> sceNgs2RackGetVoiceHandle (stub_ok)
+orbis-hle: 0eFLVCfWVds -> sceNgs2RackQueryBufferSize (stub_ok)
+orbis-hle: koBbCMvOKWw -> sceNgs2SystemCreate (stub_ok)
+orbis-hle: pgFAiLR5qT4 -> sceNgs2SystemQueryBufferSize (stub_ok)
+orbis-hle: i0VnXM-C9fc -> sceNgs2SystemRender (stub_ok)
+orbis-hle: uu94irFOGpA -> sceNgs2VoiceControl (stub_ok)
+orbis-hle: -TOuuAQ-buE -> sceNgs2VoiceGetState (stub_ok)
+orbis-hle: rEh728kXk3w -> sceNgs2VoiceGetStateFlags (stub_ok)
+orbis-hle: j2AIqSqJP0w -> sceKernelGetdents (stub_ok)
+orbis-hle: eV9wAD2riIA -> sceKernelStat (stub_ok)
+relocated:  NID-stub imports -> HLE (6336864 rela + 7560 plt bytes)
+slots filled: 1761
+step: auxv+headers
+step: argv+build
+image:     /root/dc147_eboot.elf
+abi:       PS4 (abiversion 0)
+base_used: 0x0000000000000000 span=0x26ba000 maps=3
+entry:     0x00000000015cad40
+stack rsp: 0x00007ffff07ffd58 (8 MiB @ 0x00007ffff0000000)
+auxv:      6 entries
+  seg[0] type=0x00000001 vaddr=0x000000000000 memsz=0x1a4e1b8 filesz=0x1a4e1b8
+  seg[1] type=0x61000010 vaddr=0x000001c00000 memsz=0x007008 filesz=0x007008
+  seg[2] type=0x00000001 vaddr=0x000001e00000 memsz=0x8b9818 filesz=0x5b46d0
+  seg[3] type=0x00000002 vaddr=0x000000000000 memsz=0x000740 filesz=0x000740
+  seg[4] type=0x00000007 vaddr=0x000000000000 memsz=0x000000 filesz=0x000000
+launching guest (no return)...
+orbis-atexit: fn=0x309172b27110 (handler 0, called from 0x15cad61)
+orbis-atexit: fn=0x16a1bc0 (handler 1, called from 0x15cad6d)
+orbis-cxa_atexit: fn=0x15ecb70 arg=0x26aa7c0 dso=0x239c230 (handler 2)
+orbis-cxa_atexit: fn=0x15ebda0 arg=0x269fba8 dso=0x239c230 (handler 3)
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93070000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93080000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93090000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930a0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930b0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930c0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930d0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930e0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f930f0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93100000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93110000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93120000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93130000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93140000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93150000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93160000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93170000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93180000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f93190000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f931a0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f931b0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f931c0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f931d0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97080000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97090000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970a0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970b0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970c0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970d0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970e0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f970f0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97100000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97110000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97120000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97130000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97140000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97150000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97160000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97170000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97180000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97190000
+Loading assets... orbis-fopen: /app0/res.pak mode=rb
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971a0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971b0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971c0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971d0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971e0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f971f0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97200000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97210000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97220000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97230000
+orbis-fopen: /app0/res1.pak mode=rb
+slot: sys_alloc_align(0x40000, 0x10000) = 0x3a3f97240000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97280000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97290000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f972a0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f972b0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f972d0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f972e0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f972f0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97300000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97310000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97320000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97340000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97350000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97360000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97370000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97390000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f973a0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f973b0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f973c0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f973e0000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f973f0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97400000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97420000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97430000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97440000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97460000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97470000
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97490000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f974a0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f974c0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f974e0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97500000
+slot: sys_alloc_align(0x40000, 0x10000) = 0x3a3f97520000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97560000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f97580000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f975a0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f975c0000
+slot: sys_alloc_align(0x20000, 0x10000) = 0x3a3f975e0000
+orbis-fopen: /app0/res2.pak mode=rb
+slot: sys_alloc_align(0x10000, 0x10000) = 0x3a3f97600000
+Sorbis-exit: calling handler 3 fn=0x15ebda0 arg=0x269fba8
+orbis-exit: calling handler 2 fn=0x15ecb70 arg=0x26aa7c0
+orbis-exit: calling handler 1 fn=0x16a1bc0 arg=0x0
+orbis-exit: calling handler 0 fn=0x309172b27110 arg=0x0
+guest exited via HLE: status=0
+text-dbg @0xe8d9a0: 05 00 00 83 78 10 00 49 8b 9c 24 d8 00 00 00 48 8b 48 08 74 10 48 8b 78 18 ff d1 48 85 db 75 10
+text-dbg @0xa758: 3b 51 01 5d c3 48 8d 05 bc 26 51 01 5d c3 48 8d 05 13 40 51 01 5d c3 48 8d 05 8a e1 50 01 5d c3
+text-dbg @0xa780: c3 48 8d 05 e8 dc 50 01 5d c3 48 8d 05 3f d6 50 01 5d c3 48 8d 05 46 d8 50 01 5d c3 48 8d 05 ad
+str-dbg @0xf8a1fe: êêUHâÂAWAVSHÉÏ(Lã5¥√«
+fn-dbg @0xe7e1d2: 00 00 00 0f 85 66 fc ff ff c4 c1 7b 10 86 f0 00 00 00 e8 c7 f1 75 00 c5 fb 10 0d f7 4b 87 00 c5

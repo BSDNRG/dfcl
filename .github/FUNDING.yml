@@ -1,0 +1,7 @@
+# GitHub Sponsors is unavailable in the maintainer's region (not in the
+# supported-regions list). External funding channels are used instead —
+# see SPONSORS.md for the full list, hardware goals and the public ledger.
+custom:
+  - "https://boosty.to/bsdnrg"                               # RU cards / subscriptions
+  - "https://github.com/BSDNRG/dfcl/blob/main/SPONSORS.md"   # crypto addresses (TON / USDT / BTC)
+# GitHub allows up to 4 `custom:` entries.
