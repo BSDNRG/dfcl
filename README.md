@@ -57,7 +57,12 @@ APU-class machines) and continuous test infrastructure. Goals are
 tracked, cheapest first, with a public ledger in [SPONSORS.md](SPONSORS.md).
 
 - **Boosty** (RU cards, subscriptions): https://boosty.to/bsdnrg
-- **Crypto** (TON / USDT-TON / BTC): see [SPONSORS.md](SPONSORS.md)
+- **TON / USDT (TON)**: `EQBjj64c4Z3IuLQLc_L2vr-S54agy59g7_JmTVU4lMUxGThd`
+- **USDT (TRC-20)**: `TPWZH7b89trRr2pq5sESSFaCpoRfK1SkwS`
+- **BTC**: `bc1qqceeh2dd95sq6vatuce3jr8kgxhzkp44yq0y4p`
+
+Donations are voluntary and one-way: no rewards, no allocations,
+no promises. Full details and the public ledger: [SPONSORS.md](SPONSORS.md).
 
 ## Legal notice
 

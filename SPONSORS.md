@@ -19,9 +19,17 @@ the ledger below.
 | Channel | Best for | Where |
 |---|---|---|
 | Boosty | Russian cards, subscriptions | `https://boosty.to/bsdnrg` |
-| TON | Global, near-zero fees | `EQ…` *(address pending)* |
-| USDT (TON) | Global, stable value | `EQ…` *(address pending)* |
-| BTC | Global | `bc1…` *(address pending)* |
+| TON / USDT (TON) | Global, near-zero fees, Telegram-native | `EQBjj64c4Z3IuLQLc_L2vr-S54agy59g7_JmTVU4lMUxGThd` |
+| USDT (TRC-20) | Global, stable value, near-zero fees | `TPWZH7b89trRr2pq5sESSFaCpoRfK1SkwS` |
+| BTC | Global | `bc1qqceeh2dd95sq6vatuce3jr8kgxhzkp44yq0y4p` |
+
+Donations are voluntary and one-way: no rewards, no allocations,
+no promises. Crypto balances of these addresses are public on-chain —
+part of the same transparency as the ledger below.
+
+*TON addresses have two equivalent notations: the table uses the
+canonical (bounceable) form; wallet apps may display the same
+account as `UQ…` — it is the identical account.*
 
 ## Hardware goals (cheapest first, unlocked one by one)
 

@@ -59,7 +59,13 @@ Apple Silicon, машины класса AMD APU) и постоянную тес
 бухгалтерией в [SPONSORS.md](SPONSORS.md).
 
 - **Boosty** (карты РФ, подписки): https://boosty.to/bsdnrg
-- **Крипта** (TON / USDT-TON / BTC): см. [SPONSORS.md](SPONSORS.md)
+- **TON / USDT (TON)**: `EQBjj64c4Z3IuLQLc_L2vr-S54agy59g7_JmTVU4lMUxGThd`
+- **USDT (TRC-20)**: `TPWZH7b89trRr2pq5sESSFaCpoRfK1SkwS`
+- **BTC**: `bc1qqceeh2dd95sq6vatuce3jr8kgxhzkp44yq0y4p`
+
+Донаты добровольные и без встречных обязательств: никаких наград,
+долей и обещаний. Подробности и публичная бухгалтерия:
+[SPONSORS.md](SPONSORS.md).
 
 ## Правовое уведомление
 
