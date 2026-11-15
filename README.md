@@ -50,6 +50,11 @@ The FreeBSD kernel module (`compat_darwin.ko`) is not distributed at
 this stage — its build requires a matching FreeBSD kernel source tree;
 a demonstration setup is available to partners on request.*
 
+## Follow the project
+
+- **Telegram**: t.me/BSDNRG — devlog, weekly Demo Fridays, every milestone with a video
+- **Site**: https://dfcl-iywo.zai-ai.site
+
 ## Supporting the project
 
 Development runs on a single machine today; funding goes to dedicated
