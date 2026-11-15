@@ -22,7 +22,7 @@ test run — not by promises.
 | **Orbis (PS4) ELF execution** | `orbisrun --exec` runs a PS4 homebrew ELF; guest `write()` prints "dfcl orbis ok", exit 0 on FreeBSD 14.5 ([demo video](docs/demo/o1exec_demo.mp4)) |
 | **Orbis (PS5) ELF execution** | PS5 guest ELF (abiversion 2, base 0x200000000) executes natively on the same host ([demo video](docs/demo/ps5_exec_demo.mp4)) |
 | **Orbis retail-asset boot research** | a PS4 title boots to its asset-loading stage with real (user-supplied) game assets on FreeBSD — no game or Sony assets are distributed ([demo video](docs/demo/deadcells_freebsd_loading_assets.mp4)) |
-| **Automated test suite** | 1,698 checks, 0 failures, ASan/UBSan clean — archived per run with the tree commit id |
+| **Automated test suite** | 1,807 checks, 0 failures, ASan/UBSan clean — archived per run with the tree commit id |
 | **Orbis HLE libkernel** | 377-entry NID registry, 15 native passthrough shims (open/read/write/close/…), end-to-end file cycle tested |
 
 Demo folder: [docs/demo/](docs/demo/) — videos, screenshots and the

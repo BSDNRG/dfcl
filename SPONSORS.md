@@ -6,7 +6,7 @@ software natively — no CPU emulation, no Linux intermediary, no macOS VM.
 One OS base, two compatibility targets.
 
 Development is test-driven: every public claim is backed by a
-reproducible demo or an archived test run (currently **1,698** checks
+reproducible demo or an archived test run (currently **1,807** checks
 green, ASan/UBSan clean). Donations go to dedicated test hardware and
 continuous test infrastructure; every purchase is reported publicly in
 the ledger below.
