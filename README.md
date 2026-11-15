@@ -40,9 +40,10 @@ The roadmap fixes the order of work, not a schedule. No dates promised.
 
 ## Downloads (compiled binaries)
 
-Prebuilt tools are attached to [Releases](../../releases):
-`dfexec` (Mach-O loader/launcher), `dfinspect` (Mach-O diagnostics),
-`orbisrun` (Orbis ELF launcher). Built on FreeBSD/amd64.
+**[v0.1.0-demo](../../releases/tag/v0.1.0-demo)** — first public build:
+`orbisrun` (Orbis ELF launcher, from the demo videos), `dfexec` and
+`machorun` (Mach-O launchers), `dfinspect` (Mach-O diagnostics),
+`mkmacho` (ELF→Mach-O converter). FreeBSD/amd64 15.1, unstripped.
 
 *Binaries are provided for evaluation of the demonstrated capabilities.
 The FreeBSD kernel module (`compat_darwin.ko`) is not distributed at
