@@ -31,20 +31,21 @@ part of the same transparency as the ledger below.
 canonical (bounceable) form; wallet apps may display the same
 account as `UQ…` — it is the identical account.*
 
-## Hardware goals (cheapest first, unlocked one by one)
+## Hardware goals (near-term first; long-term flagship items at the bottom)
 
 | # | Goal | Unlocks | Est. cost | Status |
 |---|---|---|---|---|
 | 1 | AMD BC-150 (used, Navi 22 mining board) | Cheap RDNA2 card for GPU bring-up: amdgpu/DRM experiments on real silicon without a full workstation | ~$150 | ⬜ 0 % |
-| 2 | HP ZBook 15 G3 (used, AMD FirePro variant) | Second bare-metal FreeBSD host: driver work and test runs on real laptop hardware, incl. its AMD dGPU | ~$250 | ⬜ 0 % |
-| 3 | FreeBSD dev host (bare-metal mini-PC) | bhyve CI for the kernel module; driver bring-up; no VM quirks | ~$400 | ⬜ 0 % |
-| 4 | PlayStation 5 (used) | Orbis syscall-table verification; homebrew ELF test targets | ~$600 | ⬜ 0 % |
-| 5 | Apple MacBook Pro (M5) | Apple Silicon / Darwin arm64 validation on real hardware | ~$2,500 | ⬜ 0 % |
-| 6 | AMD Ryzen AI Max 395 APU platform | Unified-memory APU for big builds and graphics research (equipment line of the grant plan, stages 2-4) | ~$3,000 | 🔒 long-term |
+| 2 | FreeBSD dev host (bare-metal mini-PC) | bhyve CI for the kernel module; driver bring-up; no VM quirks | ~$400 | ⬜ 0 % |
+| 3 | PlayStation 5 (used) | Orbis syscall-table verification; homebrew ELF test targets | ~$600 | ⬜ 0 % |
+| 4 | Apple MacBook Pro (M5) | Apple Silicon / Darwin arm64 validation on real hardware | ~$2,500 | ⬜ 0 % |
+| 5 | AMD Ryzen AI Max 395-class APU platform | Unified-memory APU for big builds and graphics research (grant-plan equipment line, stages 2-4) | ~$3,000 | 🔒 long-term |
+| 6 | HP ZBook Ultra G3a (2026, up to Ryzen AI Max+ PRO 495) | Concrete 2026 machine for goal 5: up to 192 GB unified LPDDR5x, RDNA 3.5 iGPU; FreeBSD bring-up and graphics work on current silicon | ~$3,150 (base) | 🔒 long-term |
 | 7 | AMD MI300A node | Heterogeneous-compute (APU) research | ~$30,000 | 🔒 long-term |
 
-*Costs for items 1-2 are approximate secondhand-market estimates; both
-are wanted only in working condition.*
+*Cost of item 1 is an approximate secondhand-market estimate; it is
+wanted only in working condition. Prices for items 5-6 are base
+configurations and will drift with the market.*
 
 **Note:** the current milestones do **not** require donations — demos run
 in a FreeBSD VM. Funding accelerates what follows, it does not gate it.
