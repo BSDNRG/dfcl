@@ -35,10 +35,15 @@ account as `UQ…` — it is the identical account.*
 
 | # | Goal | Unlocks | Est. cost | Status |
 |---|---|---|---|---|
-| 1 | FreeBSD dev host (bare-metal mini-PC) | bhyve CI for the kernel module; driver bring-up; no VM quirks | ~$400 | ⬜ 0 % |
-| 2 | PlayStation 5 (used) | Orbis syscall-table verification; homebrew ELF test targets | ~$600 | ⬜ 0 % |
-| 3 | Apple MacBook Pro (M5) | Apple Silicon / Darwin arm64 validation on real hardware | ~$2,500 | ⬜ 0 % |
-| 4 | AMD MI300A node | Heterogeneous-compute (APU) research | ~$30,000 | 🔒 long-term |
+| 1 | AMD BC-150 (used, Navi 22 mining board) | Cheap RDNA2 card for GPU bring-up: amdgpu/DRM experiments on real silicon without a full workstation | ~$150 | ⬜ 0 % |
+| 2 | HP ZBook 15 G3 (used, AMD FirePro variant) | Second bare-metal FreeBSD host: driver work and test runs on real laptop hardware, incl. its AMD dGPU | ~$250 | ⬜ 0 % |
+| 3 | FreeBSD dev host (bare-metal mini-PC) | bhyve CI for the kernel module; driver bring-up; no VM quirks | ~$400 | ⬜ 0 % |
+| 4 | PlayStation 5 (used) | Orbis syscall-table verification; homebrew ELF test targets | ~$600 | ⬜ 0 % |
+| 5 | Apple MacBook Pro (M5) | Apple Silicon / Darwin arm64 validation on real hardware | ~$2,500 | ⬜ 0 % |
+| 6 | AMD MI300A node | Heterogeneous-compute (APU) research | ~$30,000 | 🔒 long-term |
+
+*Costs for items 1-2 are approximate secondhand-market estimates; both
+are wanted only in working condition.*
 
 **Note:** the current milestones do **not** require donations — demos run
 in a FreeBSD VM. Funding accelerates what follows, it does not gate it.
