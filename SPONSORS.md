@@ -40,7 +40,8 @@ account as `UQ…` — it is the identical account.*
 | 3 | FreeBSD dev host (bare-metal mini-PC) | bhyve CI for the kernel module; driver bring-up; no VM quirks | ~$400 | ⬜ 0 % |
 | 4 | PlayStation 5 (used) | Orbis syscall-table verification; homebrew ELF test targets | ~$600 | ⬜ 0 % |
 | 5 | Apple MacBook Pro (M5) | Apple Silicon / Darwin arm64 validation on real hardware | ~$2,500 | ⬜ 0 % |
-| 6 | AMD MI300A node | Heterogeneous-compute (APU) research | ~$30,000 | 🔒 long-term |
+| 6 | AMD Ryzen AI Max 395 APU platform | Unified-memory APU for big builds and graphics research (equipment line of the grant plan, stages 2-4) | ~$3,000 | 🔒 long-term |
+| 7 | AMD MI300A node | Heterogeneous-compute (APU) research | ~$30,000 | 🔒 long-term |
 
 *Costs for items 1-2 are approximate secondhand-market estimates; both
 are wanted only in working condition.*
